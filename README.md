@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### ML Engineer | Software Developer | Data Scientist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](your-github)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([your-linkedin](https://www.linkedin.com/in/temirlan-kdyrkhan/))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)]([your-github](https://github.com/temirlankn))
 
 ## 🎯 About Me
 Data-driven professional specializing in Machine Learning and AI solutions with a focus on:
@@ -76,12 +76,6 @@ Currently pursuing MS in Data Science & Analytics at Florida Atlantic University
 - [AI Fundamentals](cert-link) - IBM
 - [AI Document Intelligence](cert-link) - Microsoft Azure
 
-## 📫 Contact
-<div align="center">
-
-| 📧 [[Email](mailto:temirlan9908@gmail.com)] | 💼 [[LinkedIn](https://www.linkedin.com/in/temirlan-kdyrkhan/)] | 🌐 [[github](https://github.com/temirlankn)] |
-
-</div>
 
 ---
 ### 📈 GitHub Stats
