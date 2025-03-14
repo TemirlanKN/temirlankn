@@ -76,10 +76,11 @@ Currently pursuing MS in Data Science & Analytics at Florida Atlantic University
 - [AI Document Intelligence](cert-link) - Microsoft Azure
 
 ## 📫 Contact
-- 📧 Email: [your-email]
-- 📍 Location: Hallandale Beach, FL
-- 💼 [LinkedIn Profile](your-linkedin)
-- 🌐 [Personal Website](your-website)
+<div align="center">
+
+| 📧 [[Email](mailto:temirlan9908@gmail.com)] | 💼 [[LinkedIn](https://www.linkedin.com/in/temirlan-kdyrkhan/)] | 🌐 [[github](https://github.com/temirlankn)] |
+
+</div>
 
 ---
 ### 📈 GitHub Stats
