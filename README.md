@@ -84,8 +84,8 @@ Currently pursuing MS in Data Science & Analytics at Florida Atlantic University
 ---
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=temirlankn&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=temirlankn&layout=compact&theme=dark)
 
 ---
 *Open to collaborations in Machine Learning, AI, and Software Development*
