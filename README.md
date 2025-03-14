@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Temirlan Kdyrkhan
+# Welcome to Temirlan's Github!
+
 ### ML Engineer | Software Developer | Data Scientist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin)
